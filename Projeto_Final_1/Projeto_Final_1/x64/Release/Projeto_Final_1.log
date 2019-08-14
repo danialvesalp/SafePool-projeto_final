@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  10 of 106 functions ( 9.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Projeto_Final_1.vcxproj -> C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Projeto_Final_1\x64\Release\Projeto_Final_1.exe
+  Projeto_Final_1.vcxproj -> C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Projeto_Final_1\x64\Release\Projeto_Final_1.pdb (Full PDB)

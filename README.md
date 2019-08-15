@@ -1,4 +1,4 @@
-#### SaePool- Projeto para monitoramento de uma piscina.
+#### SaePool - Projeto para monitoramento de uma piscina.
 -----
 Projeto final com a integração de todos os códigos, desenvolvido principalmente em C++.
 
